@@ -1,0 +1,333 @@
+"Kód štátu";"Názov štátu";"Kód oblasti";"Kód kraja";"Názov oblasti";"Názov kraja";"Pohlavie";"Ekonomické vekové skupiny";"Súčasná ekonomická aktivita";"abs."
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;predproduktívny vek (0-14 rokov);nezistené;6
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;predproduktívny vek (0-14 rokov);žiak strednej školy;23
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;predproduktívny vek (0-14 rokov);žiak základnej školy;31919
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;30119
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);nezistené;8963
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);167133
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);pracujúci dôchodca;10204
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);osoba na materskej dovolenke;610
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;608
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);nezamestnaný;8410
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);žiak strednej školy;10547
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);študent vysokej školy;5462
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);osoba v domácnosti;8839
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);dôchodca;8971
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;1433
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);iná;986
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;produktívny vek (15-64 rokov);žiak základnej školy;1267
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;13626
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);dôchodca;37129
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;muž;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;49
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;predproduktívny vek (0-14 rokov);nezistené;48
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;predproduktívny vek (0-14 rokov);žiak strednej školy;34
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;predproduktívny vek (0-14 rokov);žiak základnej školy;30991
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;27851
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);nezistené;6671
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);145010
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);pracujúci dôchodca;12071
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);osoba na materskej dovolenke;3548
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;9848
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);nezamestnaný;9648
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);žiak strednej školy;10246
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);študent vysokej školy;6149
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);osoba v domácnosti;22140
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);dôchodca;11626
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;1323
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);iná;91
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;produktívny vek (15-64 rokov);žiak základnej školy;966
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;12597
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);osoba na rodičovskej dovolenke;1
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);dôchodca;62335
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;38
+SK0;Slovenská republika;SK01;SK010;Bratislavský kraj;Bratislavský kraj;žena;poproduktívny vek (65 a viac rokov);iná;1
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;predproduktívny vek (0-14 rokov);nezistené;4
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;predproduktívny vek (0-14 rokov);žiak strednej školy;3
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;predproduktívny vek (0-14 rokov);žiak základnej školy;23526
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;19343
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);nezistené;5957
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);132659
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);pracujúci dôchodca;11052
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);osoba na materskej dovolenke;270
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;275
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);nezamestnaný;7645
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);žiak strednej školy;9056
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);študent vysokej školy;3891
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);osoba v domácnosti;8542
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);dôchodca;12168
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;380
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);iná;824
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;produktívny vek (15-64 rokov);žiak základnej školy;1495
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;7020
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);dôchodca;33406
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;muž;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;5
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;predproduktívny vek (0-14 rokov);nezistené;27
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;predproduktívny vek (0-14 rokov);žiak strednej školy;34
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;predproduktívny vek (0-14 rokov);žiak základnej školy;22611
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;17916
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);nezistené;3896
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);107505
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);pracujúci dôchodca;10994
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);osoba na materskej dovolenke;1975
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;5173
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);nezamestnaný;8825
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);žiak strednej školy;8816
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);študent vysokej školy;5365
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);osoba v domácnosti;19669
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);dôchodca;15184
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;306
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);iná;99
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;produktívny vek (15-64 rokov);žiak základnej školy;1111
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;5964
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);dôchodca;53007
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;9
+SK0;Slovenská republika;SK02;SK021;Západné Slovensko;Trnavský kraj;žena;poproduktívny vek (65 a viac rokov);iná;1
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;predproduktívny vek (0-14 rokov);nezistené;1
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;predproduktívny vek (0-14 rokov);žiak strednej školy;8
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;predproduktívny vek (0-14 rokov);žiak základnej školy;23214
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;18491
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);nezistené;5293
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);134038
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);pracujúci dôchodca;11936
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);osoba na materskej dovolenke;299
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;293
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);nezamestnaný;8650
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);žiak strednej školy;9168
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);študent vysokej školy;4246
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);osoba v domácnosti;7161
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);dôchodca;13706
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;357
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);iná;637
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;produktívny vek (15-64 rokov);žiak základnej školy;1373
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;7334
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);dôchodca;37452
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;3
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;muž;poproduktívny vek (65 a viac rokov);iná;1
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;predproduktívny vek (0-14 rokov);nezistené;4
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;predproduktívny vek (0-14 rokov);žiak strednej školy;12
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;predproduktívny vek (0-14 rokov);žiak základnej školy;22452
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;17315
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);nezistené;3418
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);109375
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);pracujúci dôchodca;11862
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);osoba na materskej dovolenke;1951
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;4553
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);nezamestnaný;9334
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);žiak strednej školy;9125
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);študent vysokej školy;5603
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);osoba v domácnosti;17673
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);dôchodca;15635
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;280
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);iná;57
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;produktívny vek (15-64 rokov);žiak základnej školy;992
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;6336
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);dôchodca;57823
+SK0;Slovenská republika;SK02;SK022;Západné Slovensko;Trenčiansky kraj;žena;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;3
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;predproduktívny vek (0-14 rokov);nezistené;1
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;predproduktívny vek (0-14 rokov);žiak strednej školy;8
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;predproduktívny vek (0-14 rokov);žiak základnej školy;27084
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;20976
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);nezistené;8420
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);156312
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);pracujúci dôchodca;11654
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);osoba na materskej dovolenke;193
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;267
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);nezamestnaný;9423
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);žiak strednej školy;10415
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);študent vysokej školy;5032
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);osoba v domácnosti;12147
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);dôchodca;15707
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;498
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);iná;892
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;produktívny vek (15-64 rokov);žiak základnej školy;1784
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;7760
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);dôchodca;42019
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;5
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;muž;poproduktívny vek (65 a viac rokov);iná;3
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;predproduktívny vek (0-14 rokov);nezistené;12
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;predproduktívny vek (0-14 rokov);žiak strednej školy;19
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;predproduktívny vek (0-14 rokov);žiak základnej školy;25736
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;19620
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);nezistené;5748
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);125177
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);pracujúci dôchodca;11128
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);osoba na materskej dovolenke;1799
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;5025
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);nezamestnaný;12149
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);žiak strednej školy;10172
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);študent vysokej školy;6811
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);osoba v domácnosti;25900
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);dôchodca;19340
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;701
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);iná;109
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;produktívny vek (15-64 rokov);žiak základnej školy;1363
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;6346
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);dôchodca;70135
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;9
+SK0;Slovenská republika;SK02;SK023;Západné Slovensko;Nitriansky kraj;žena;poproduktívny vek (65 a viac rokov);iná;1
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;predproduktívny vek (0-14 rokov);nezistené;2
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;predproduktívny vek (0-14 rokov);žiak strednej školy;8
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;predproduktívny vek (0-14 rokov);žiak základnej školy;31331
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;25011
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);nezistené;5722
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);161150
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);pracujúci dôchodca;13226
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);osoba na materskej dovolenke;446
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;562
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);nezamestnaný;12274
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);žiak strednej školy;13146
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);študent vysokej školy;5705
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);osoba v domácnosti;9141
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);dôchodca;15034
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;454
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);iná;637
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;produktívny vek (15-64 rokov);žiak základnej školy;1759
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;8232
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);dôchodca;36877
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;9
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;muž;poproduktívny vek (65 a viac rokov);iná;1
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;predproduktívny vek (0-14 rokov);nezistené;12
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;predproduktívny vek (0-14 rokov);žiak strednej školy;33
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;predproduktívny vek (0-14 rokov);žiak základnej školy;29903
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;23523
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);nezistené;3932
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);125797
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);pracujúci dôchodca;13131
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);osoba na materskej dovolenke;2505
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;6811
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);nezamestnaný;12665
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);žiak strednej školy;13109
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);študent vysokej školy;8609
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);osoba v domácnosti;23944
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);dôchodca;17886
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;314
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);iná;61
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;produktívny vek (15-64 rokov);žiak základnej školy;1270
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;7109
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);osoba na rodičovskej dovolenke;1
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);dôchodca;60266
+SK0;Slovenská republika;SK03;SK031;Stredné Slovensko;Žilinský kraj;žena;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;5
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;predproduktívny vek (0-14 rokov);nezistené;3
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;predproduktívny vek (0-14 rokov);žiak strednej školy;7
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;predproduktívny vek (0-14 rokov);žiak základnej školy;26528
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;21128
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);nezistené;7689
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);129593
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);pracujúci dôchodca;9959
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);osoba na materskej dovolenke;233
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;290
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);nezamestnaný;17423
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);žiak strednej školy;9792
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);študent vysokej školy;4245
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);osoba v domácnosti;14113
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);dôchodca;15287
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;411
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);iná;1138
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;produktívny vek (15-64 rokov);žiak základnej školy;2020
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;7340
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);dôchodca;36943
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;8
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;muž;poproduktívny vek (65 a viac rokov);iná;3
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;predproduktívny vek (0-14 rokov);nezistené;5
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;predproduktívny vek (0-14 rokov);žiak strednej školy;6
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;predproduktívny vek (0-14 rokov);žiak základnej školy;25986
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;19885
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);nezistené;5575
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);108283
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);pracujúci dôchodca;9843
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);osoba na materskej dovolenke;1555
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;4546
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);nezamestnaný;19482
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);žiak strednej školy;9601
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);študent vysokej školy;5736
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);osoba v domácnosti;24258
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);dôchodca;16739
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;312
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);iná;103
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;produktívny vek (15-64 rokov);žiak základnej školy;1568
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;6904
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);osoba na rodičovskej dovolenke;1
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);dôchodca;61057
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;2
+SK0;Slovenská republika;SK03;SK032;Stredné Slovensko;Banskobystrický kraj;žena;poproduktívny vek (65 a viac rokov);iná;1
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;predproduktívny vek (0-14 rokov);nezistené;1
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;predproduktívny vek (0-14 rokov);žiak strednej školy;5
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;predproduktívny vek (0-14 rokov);žiak základnej školy;41377
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;34028
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);nezistené;9298
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);167815
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);pracujúci dôchodca;13402
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);osoba na materskej dovolenke;364
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;730
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);nezamestnaný;25088
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);žiak strednej školy;14630
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);študent vysokej školy;7013
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);osoba v domácnosti;16178
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);dôchodca;17708
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;436
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);iná;807
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;produktívny vek (15-64 rokov);žiak základnej školy;3046
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;7508
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);dôchodca;40787
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;3
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;muž;poproduktívny vek (65 a viac rokov);iná;3
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;predproduktívny vek (0-14 rokov);nezistené;4
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;predproduktívny vek (0-14 rokov);žiak strednej školy;7
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;predproduktívny vek (0-14 rokov);žiak základnej školy;39572
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;32536
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);nezistené;6865
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);127862
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);pracujúci dôchodca;12648
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);osoba na materskej dovolenke;2237
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;6588
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);nezamestnaný;25538
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);žiak strednej školy;13814
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);študent vysokej školy;9978
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);osoba v domácnosti;35710
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);dôchodca;20811
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;265
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);iná;117
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;produktívny vek (15-64 rokov);žiak základnej školy;2638
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;5925
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);dôchodca;65585
+SK0;Slovenská republika;SK04;SK041;Východné Slovensko;Prešovský kraj;žena;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;4
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;predproduktívny vek (0-14 rokov);žiak strednej školy;2
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;predproduktívny vek (0-14 rokov);žiak základnej školy;38531
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;31588
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);nezistené;15495
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);151499
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);pracujúci dôchodca;10634
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);osoba na materskej dovolenke;255
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;466
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);nezamestnaný;21904
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);žiak strednej školy;12602
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);študent vysokej školy;5731
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);osoba v domácnosti;22125
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);dôchodca;17373
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;485
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);iná;1262
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;produktívny vek (15-64 rokov);žiak základnej školy;3087
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;7815
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);dôchodca;41327
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;1
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;muž;poproduktívny vek (65 a viac rokov);iná;1
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;predproduktívny vek (0-14 rokov);nezistené;1
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;predproduktívny vek (0-14 rokov);žiak strednej školy;11
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;predproduktívny vek (0-14 rokov);žiak základnej školy;37249
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;predproduktívny vek (0-14 rokov);dieťa do začatia povinnej školskej dochádzky;29719
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);nezistené;12667
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);pracujúci (okrem dôchodcov);123020
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);pracujúci dôchodca;10653
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);osoba na materskej dovolenke;1884
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);osoba na rodičovskej dovolenke;6191
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);nezamestnaný;23273
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);žiak strednej školy;11848
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);študent vysokej školy;7399
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);osoba v domácnosti;38623
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);dôchodca;19368
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);príjemca kapitálových príjmov;355
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);iná;123
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;produktívny vek (15-64 rokov);žiak základnej školy;2604
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);pracujúci dôchodca;7097
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);dôchodca;67946
+SK0;Slovenská republika;SK04;SK042;Východné Slovensko;Košický kraj;žena;poproduktívny vek (65 a viac rokov);príjemca kapitálových príjmov;2
